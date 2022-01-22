@@ -3,7 +3,7 @@ W03 Teach: Designer
 
 
 # Hilo
-Here's where your hability to risk and win will be tested. We will give you an initial card, then you will guess if the next card will be higher or lower. If you choose correctly, you will be rewarded. On the other hand, we will remove some points if you're incorrect. 
+Here's where your hability to risk and win will be tested. We will give you an initial card with numbers from 1 to 13 and 300 points to start. Then you will guess if the next card will be higher or lower. If you choose correctly, you will be rewarded. On the other hand, we will remove some points if you're incorrect. If you reach 0 is game over.
 
 ## Getting Started
 ---
